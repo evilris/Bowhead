@@ -1,4 +1,5 @@
 ![BowHead logo](http://i.imgur.com/Xd4UjeA.png)
+[![devDependencies Status](https://david-dm.org/evilris/bowhead/dev-status.svg)](https://david-dm.org/evilris/bowhead?type=dev)
 > Yet another GUI for Docker.
 
 ## Build Setup
