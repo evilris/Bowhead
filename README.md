@@ -1,6 +1,5 @@
-# bowhead
-
-> Docker gui
+![BowHead logo](http://i.imgur.com/Xd4UjeA.png)
+> Yet another GUI for Docker.
 
 ## Build Setup
 
