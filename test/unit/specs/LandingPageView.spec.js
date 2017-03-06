@@ -8,6 +8,6 @@ describe('LandingPageView.vue', () => {
       render: h => h(LandingPageView),
     }).$mount();
 
-    expect(vm.$el.querySelector('h1').textContent).to.contain('Welcome.');
+    expect(vm.$el.querySelector('h1').textContent).to.contain('GUI');
   });
 });
