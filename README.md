@@ -1,6 +1,7 @@
 ![BowHead logo](http://i.imgur.com/Xd4UjeA.png)
 [![devDependencies Status](https://david-dm.org/evilris/bowhead/dev-status.svg)](https://david-dm.org/evilris/bowhead?type=dev)
 [![Build Status](https://travis-ci.org/evilris/Bowhead.svg?branch=master)](https://travis-ci.org/evilris/Bowhead)
+[![bitHound Overall Score](https://www.bithound.io/github/evilris/Bowhead/badges/score.svg)](https://www.bithound.io/github/evilris/Bowhead)
 > Yet another GUI for Docker.
 
 ## Build Setup
